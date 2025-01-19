@@ -1,0 +1,2 @@
+This is a test input stream file.
+It contains some sample data.
