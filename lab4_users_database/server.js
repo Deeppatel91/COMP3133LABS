@@ -7,7 +7,7 @@ const User = require('./models/User');
 const app = express();
 app.use(express.json());
 
-mongoose.connect('mongodb+srv://deep:deeppatel@cluster0.ztcjj.mongodb.net/restaurantDB?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://deep:deeppatel@cluster0.ztcjj.mongodb.net/userDB?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true
   })
