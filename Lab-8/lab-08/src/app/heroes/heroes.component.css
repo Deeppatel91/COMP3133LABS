@@ -1,0 +1,32 @@
+h2 {
+    color: #1e90ff;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  
+  li:hover {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  
+  input[type="text"] {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color: #333;
+  }
+  

@@ -8,3 +8,4 @@ export class RemoveSpacesPipe implements PipeTransform {
     return value.replace(/-/g, ' ');
   }
 }
+//remove-spaces.pipe.ts

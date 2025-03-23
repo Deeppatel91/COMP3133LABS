@@ -6,3 +6,6 @@ export const serverRoutes: ServerRoute[] = [
     renderMode: RenderMode.Prerender
   }
 ];
+
+
+//app.routes.server.ts

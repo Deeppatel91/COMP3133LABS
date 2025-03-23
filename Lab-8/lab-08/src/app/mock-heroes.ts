@@ -7,3 +7,6 @@ export const HEROES: Hero[] = [
   { id: 4, name: 'Black-Widow' },
   { id: 5, name: 'Thor' }
 ];
+
+
+//mock-heroes.ts
